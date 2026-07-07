@@ -30,7 +30,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 36
     
     namespace 'dev.bessems.usbserial'
 
